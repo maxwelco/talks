@@ -4,7 +4,7 @@ subtitle: "Técnicas de identificação de problemas em lavouras"
 author: 
   - "Maxwel C Oliveira"
 date: '`r format(Sys.Date(), "%d/%m/%Y")`'
-output:
+output: 
   xaringan::moon_reader:
     css: mycss.css
     nature:
